@@ -5,7 +5,7 @@ All testing was done on a system with 96GB DDR5, an RTX 3060, and an AMD Ryzen 7
 
 Current features:
 - Full support for *every* building type (from doors to screens)
-- Extreme performance (tested to over 75,000TPS with simple circuits and 40,000TPS with an entire computer)
+- Extreme performance (tested to **over 50 million TPS** on simple circuits and **over 40,000TPS** on very large circuits)
 - Quick, easy loading of memory dumps in or out of memories
 - Building I/O monitoring
 - CircuitScript editing
